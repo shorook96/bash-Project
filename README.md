@@ -1,2 +1,0 @@
-# bash-Project
-bash Project
